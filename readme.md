@@ -1,1 +1,1 @@
-este é meu projeto do estratando devs
+este é meu projeto do estartando devs
