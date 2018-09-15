@@ -1,3 +1,3 @@
-# Camila
-## Aula 1
-este é meu projeto do estardando devs
+# Este é meu projeto do estartando devs
+
+## aprendendo git
