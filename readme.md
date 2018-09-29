@@ -1,3 +1,2 @@
-# Este é meu projeto do estartando devs
 
-## aprendendo git
+este é o meu prejeto do estartando devs
